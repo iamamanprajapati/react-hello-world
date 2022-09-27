@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![Screenshot (79)](https://user-images.githubusercontent.com/49456931/192456295-d16d2663-fc0d-4417-82bb-e25def3ec8f9.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -41,7 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-![Screenshot (79)](https://user-images.githubusercontent.com/49456931/192456295-d16d2663-fc0d-4417-82bb-e25def3ec8f9.png)
+
 
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
